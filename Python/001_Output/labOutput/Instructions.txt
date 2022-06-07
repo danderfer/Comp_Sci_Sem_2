@@ -1,0 +1,5 @@
+1. Right click the folder "labOutput"
+2. Click "Open Terminal Here"
+3. Type into the terminal "python base.pyc"
+
+This will show you the expected labOutput. There's a hidden file in labOutput that is the compiled python file.
